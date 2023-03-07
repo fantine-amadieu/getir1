@@ -1,0 +1,31 @@
+.btn-black {
+    background-color: black;
+    padding: 15px 40px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-black:hover {
+    background-color: white;
+    color: black;
+ }
+
+ .btn-purple {
+    background-color: #563ab0;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: #ffd00d;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+ }
+
+ .btn-purple:hover {
+    background-color: #ffd00d;
+    color: #563ab0;
+    text-align: center;
+ }
